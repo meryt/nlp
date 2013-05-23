@@ -1,0 +1,625 @@
+Acadian
+Advance Commodore Vanderbilt
+Advance Empire State Express
+Advance Knickerbocker
+Advance Merchants Limited
+Afternoon Hiawatha
+Afternoon Steeler
+Afternoon Twin Cities Zephyrs
+Aiken-Augusta Special
+Ak-Sar-Ben
+Alamo
+Alouette
+Ambassador
+American Royal
+Androscoggin
+Ann Rutledge
+Argonaut
+Arrowhead Limited
+Arundel
+Ascutney
+Ashland Limited
+Ashville Special
+Atlantic Express
+Banner Blue
+Bar Harbor
+Beach Special
+Beachcomber
+Birmingham Special
+Black Gold
+Blue Bird
+Border Limited
+Buffalo - Pittsburgh Express
+Buffalo - Toronto Express
+Buffalo Day Express
+Butte Special
+Cabana
+California Limited
+California Special
+California Zephyr
+Canadian-Niagara
+Cannon Ball
+Cape Ann
+Capital City Special
+Cardigan
+Carolina Special
+Cascade
+Cascadian
+Casco
+Centennial State
+Cherokee-Imperial
+Cheshire
+Chicago Daylight Express
+Chicago Express
+Chicago Limited
+Chicago Mail
+Chicago Night Express
+Chicago Special
+Chicago-Pittsburgh-Washington Express
+Chickasaw,The
+Choctaw Rocket
+Cincinnati Daylight Express
+Cincinnati Limited
+Cincinnati Mercury
+Cincinnati Night Express
+Cincinnati Special
+City of Denver
+City of Kansas City
+City of Los Angeles
+City of Miami
+City of Milwaukee "400"
+City of New Orleans
+City of Portland
+City of San Francisco
+City of St Louis
+Cleveland Limited
+Cleveland Night Express
+Cleveland Special
+Cleveland-Cincinnati Special
+Cleveland-St Louis Special
+Coast Line Florida Mail
+Colorado Eagle
+Columbia River Express
+Columbian
+Commodore II
+Commuter "400"
+Connecticut Yankee
+Copper Country Limited
+Corn Belt Rocket
+Cumberland
+Dakota "400"
+Dakotan
+Day Cape Codder
+Day White Mountains
+Daylight Express
+Del Monte
+Del-Mar-VA Express
+Denver Zephyr
+Des Moines Limited
+Des Moines-Omaha Special
+Des Moines-Rocket
+Detroit Express
+Detroit Limited
+Detroit Night Express
+DeWitt Clinton
+Dirigo
+Dixie Flagler
+Dixie Flyer
+Dixie Limited
+Dominion Express
+Duluth-Superior Limited
+East Coast Champion
+East Coast Express
+El Capitan
+El Dorado
+El Yaqui
+Empire State Express
+Essex Special
+Everglades
+F.F.V.
+Fast Mail
+Fifth Avenue Special
+Florida Mail
+Florida Special
+Flying Yankee
+Fort Crevevoeur
+Forty-Second Street
+Fox River Express
+Gila Tomahawk
+Gold Coast
+Golden Gate
+Gotham Limited
+Governor
+Greylock
+Gulf Coast Rebel
+Gulf Stream
+Gull
+Harrisburg New Yorker
+Harrisburg Special
+Havanna Special
+Hiawatha
+Hossac
+Housatonic
+Hudson River Express
+Hunterdon Hills Express
+Idahoan
+Imperial
+Indian Head
+Indianapolis Express
+Indianapolis Mail
+International ELimited
+Interstate Express
+Iron and Copper Country Express
+Iron City Express
+Irvin S. Cobb
+James Whitcomb Riley
+Kansan
+Kansas City Chief
+Kansas City-Florida Special
+Katy Flyer
+Katy Limited
+Kennebec
+Kentucky Cardinal
+Kettle Vally Express
+King Coal
+Klamath
+Kootenay Express
+Lake Cities Special
+Lake Shore Express
+Lake Shore Limited
+Lake Superior
+Laker
+Land O' Corn
+Lark
+Lasalle Street Limited
+Liberty Limited
+Little Nancy
+Lone Star
+Los Angeles Limited
+Louisiana Daylight
+Louisiana Sunshine
+Louisville Day Express
+Man O' War
+Manhatten Limited
+Mark Twain Zephyr
+Meadowlark
+Memphian
+Memphis-Californian
+Merchants Express
+Merchants Limited
+Merrimack
+Meteor
+Metropolitan Special
+Miamian
+Michigan Special
+Mid-Continent Special
+Midnight Limited
+Midnight Special
+Midwest Hiawatha
+Mill Cities Limited
+Minnesota "400"
+Minnesotea and Black Hills Express
+Minute Man
+Missouri River Eagle
+Montreal Limited
+Montrealer
+Morning Daylight
+Morning Hiawatha
+Morning Star
+Morning Steeler
+Morning Twin Cities Zephyrs
+Mound City
+Mountaineer
+Muskegon-Whitelake Week Ender
+Nancy Hanks II
+National Parks Special
+Naugatuck
+Naushuan
+Nebraska Limited
+Nebraska Zephyr
+Nellie Bly
+New England States
+New England Wolverine
+New Englander
+New Royal Palm
+New York Express
+New York Mail
+New York Night Express
+New York Special
+New York-Bershire Express
+New York-Boston Express
+Nickel Plate Limited
+Night Cape Codder
+Night Express
+Night Owl
+Night White Mountains
+Norfolk, Richmond and New York Express
+North Coast Limited
+North Country Mail
+North Shore Limited
+North Western Limited
+North Winds Hiawatha
+Northeastern Limited
+Northern Express
+Northwest Special
+Oakland Lark
+Ohio Special
+Ohio State Limited
+Oil Flyer
+Oklahoma Rocket
+Oklahoman
+Olympian Hiawatha
+Omaha Limited
+On Wisconsin
+Orange Blossum Special
+Overland, San Francisco
+Overnighter
+Owl
+Pacific
+Pacific Express
+Palmetto
+Palmland
+Panama Limited
+Patriot
+Paul Revere
+Peninsula "400"
+Pennsylvania Limited
+Penobscot
+Peoria Rocket
+Per Marquettes
+Philadelphia Express
+Philadelphia Flyer
+Philadelphia Night Express
+Philadelphia-Washington Express
+Piedmont Limited
+Pine Tree
+Pioneer Zephyr
+Pittsburgh Express
+Pittsburgh Night Express
+Pittsburgh Special
+Pittsburgh-Buffalo Express
+Pittsburgh-Cleveland Express
+Pocono Express
+Pony Express
+Portland Rose
+Portsmouth Down
+Portsmouth Up
+Potatoland Special
+Pounce De Leon
+Prospector
+Queen of the Valley
+Red Wing
+Resort Special
+Richmond and Norfolk Express
+Richmond Philadelphia Express
+Rochester-Minnesota Special
+Rocky Mountain Rocket
+Roque River
+Royal Gorge
+Royal Palm
+Royal Poinciana
+Royal York
+Saco
+Sacramento Daylight
+Sam Houston Zephyr
+San Diegan
+San Dune
+San Francisco Overland
+San Joaquin Daylight
+Sangamon
+Scranton Flyer
+Scrantonian
+Sea Breeze
+Sebago
+Seminole
+Shoreland "400"
+Short Line Express
+Sierra
+Silver Streak Zephyr
+Skipper
+Skyland Special
+SOO-Dominion
+South Shore Express
+Southern Bell
+Southern Express
+Southern Tier Express
+Southwestern Limited
+Spirit of St Louis
+St Lawrence Special
+St Louis Limited
+Starlight
+State of Maine
+Statesman
+Streamliner Meteor
+Sun Valley Special
+Sunbeam
+Sunset Limited
+Suntan Special
+Taconic
+Texas Chief
+Texas Special
+Texas Zephyr
+The Abraham Lincoln
+The Admiral
+The Adventureland
+The Akronite
+The Alexandria
+The Allegheny
+The Alton Limited
+The Ambassador
+The American
+The Angelo
+The Antelope
+The Arlington
+The Aroostook Flyer
+The Arrow
+The Asa Packer
+The Azalean
+The Aztec Eagle
+The Badger Express
+The Bankers
+The Bay State
+The Berkshire
+The Black Diamond
+The Black Hawk
+The Bluebonnet
+The Bluegrass
+The Bostonian
+The Broadway Limited
+The Camellia
+The Cannon Ball
+The Capital Limited
+The Caribou
+The Cavalier
+The Cayuga
+The Chicago Mercury
+The Chicagoan
+The Chief
+The Chinook
+The Chippewa Hiawatha
+The Cincinnatian
+The Cleveland Mercury
+The Clevelander
+The Colonial
+The Columbian
+The Commander
+The Commodore Vanderbuilt
+The Congressional
+The Constitution
+The Continental Limited
+The Cotton Blossom
+The Cranberry
+The Crescent New
+The Crusader
+The Daylight
+The Daylight Limited
+The Delta Eagle
+The Delta Express
+The Detroiter
+The Diplomat
+The Dominion
+The Duquesne
+The Easterner
+The Edison
+The Egyptian
+The Embassy
+The Empire Builder
+The Erie Limited
+The Eskimo
+The Executive
+The Fast Mail
+The Federal
+The Firefly
+The Flambeau
+The Flamingo
+The Flying Crow
+The Forest City
+The Fort Hayes
+The Fort Pitt
+The Frontenac
+The Furlough
+The Gateway
+The General
+The Genesee
+The George Washington
+The Georgian
+The Gilt Edge
+The Golden Gate
+The Golden Triangle
+The Goldenrod
+The Gopher
+The Governor
+The Grand Canyon
+The Great West
+The Green Diamond
+The Green Mountain
+The Gulf Wind
+The Hawkeye
+The Highlander
+The Hoosier
+The Houstonian
+The Humming Bird
+The Hustler
+The Inner-City Limited
+The International
+The Iowan
+The Iroquois
+The Jeffersonian
+The John Wilkes
+The Judiciary
+The Juniata
+The Kansa Cityan
+The Kentuckian
+The Knickerbocker
+The Lake Cities
+The Lasalle
+The Laurentian
+The Legion
+The Legislator
+The Louisiana Eagle
+The Louisiane
+The Mail
+The Maple Leaf
+The Maritime Express
+The Marylander
+The Matinee
+The Metropolitan
+The Michigan
+The Midnight
+The Midnight Special
+The Missourian
+The Mohawk
+The Mondamin
+The Motor City Special
+The Mount Royale
+The Mountain Express
+The Mountaineer
+The Mt. Vernon
+The Murray Hill
+The Narragansett
+The Nathan Hale
+The National Limited
+The Neptune
+The New Yorker
+The Night Cap
+The Night Diamond
+The Nightengale
+The North American
+The North Star
+The Northern Arrow
+The Northland
+The Nutmeg
+The Ocean Limited
+The Ohioan
+The Ontarian
+The Ontario Limited
+The Orleanean
+The Overseas
+The Owl
+The Ozarker
+The Pacemaker
+The Pan-American
+The Patersonian
+The Patriot
+The Paul Revere
+The Peach Queen
+The Pelican
+The Penn Texas
+The Pershing Square
+The Phoebe Snow
+The Pioneer
+The Pioneer Limited
+The Pittsburgher
+The Planter
+The Pocahontas
+The Potomac
+The Powhatan Arror
+The Prairie State
+The Prairie State Express
+The President
+The Puritan
+The Quaker
+The Queen City
+The Rainbow Special
+The Ranger
+The Rebel
+The Red Arrow
+The Red Devil
+The Red River
+The Representitive
+The Royal Blue
+The Schuylkill
+The Scotian
+The Seashore
+The Senator
+The Shasta Daylight
+The Shenandoah
+The Shopper
+The Shoreliner
+The Showman
+The Shreveporter
+The Silver Comet
+The Silver Meteor
+The Silver Star
+The Silver Streak
+The Sioux
+The Sooner
+The South Wind
+The Southerner
+The Southland
+The Southwest Limited
+The Speaker
+The Spokane
+The Sportsman
+The St Louisan
+The Stampeder
+The Star
+The Statesman
+The Steel King
+The Sundown
+The Sunflower
+The Sunland
+The Sunnyland
+The Sunshine Special
+The Super Chief
+The Susquehannock
+The Sycamore
+The Tennessean
+The Texan
+The Texas Eagle
+The Thoroughbred
+The Tippecanoe
+The Tomahawk
+The Trailblazer
+The Traveler
+The Tulsan
+The Tuscarora
+The Tuxedo
+The Twilight
+The Twilight Limited
+The Union
+The Valley Eagle
+The Varsity
+The Vermonter
+The Victory
+The Viger
+The Viking
+The Washingtonian
+The West Virginian
+The Westerner
+The Will Rogers
+The William Penn
+The Winnepeg Limited
+The Winnepeger
+The Wolverine
+The Yankee Clipper
+Timberliner
+Toronto-Buffalo Express
+Trojan
+Twentieth Century Limited
+Twin Cities "400"
+Twin Cities Express
+Twin Cities Zephyrs
+Twin City Limited
+Twin Star Rocket
+Uncanoonuc
+Upstate Special
+Vacationer
+Valley "400"
+Valley Express
+Wabash Cannon Ball
+Wachusett
+Wall Street
+Washington Night Express
+Washington-Pittsburgh-Chicago Express
+Washingtonian
+West Coast
+West Coast Champion
+West Virginia Night Express
+Western Star
+Winnipesaukee
+Wisconsin Lakes Special
+Yellowstone Special
+Zephyr 9902
+Zephyr Rocket
+Zephyrette

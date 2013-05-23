@@ -1,0 +1,349 @@
+Abbey Head
+Abbey Yard
+Ae
+Almagill
+Amisfield
+Annan
+Anwoth
+Applegarthtown
+Ardwell
+Arkleton
+Auchenbainzie
+Auchencairn
+Auchenmalg
+Auldgirth
+Balcary Point
+Balgowan Point
+Balmaclellan
+Bankend
+Banks
+Bankshill
+Barend
+Bargrennan
+Barharrow
+Barrachan
+Beattock
+Beeswing
+Bentpath
+Beoch Burn
+Bishopton
+Black Esk
+Black Water of Dee
+Blackford
+Bladnoch
+Boreland
+Borgue
+Borness
+Braehead
+Bridge of Dee
+Brocklehirst
+Browhouses
+Brydekirk
+Buchan Burn
+Burnfoot
+Burnhead
+Burrow Head
+Cairn Water
+Cairnpark
+Cairnryan
+Canonbie
+Capplegill
+Cargenbridge
+Carronbridge
+Carrutherstown
+Carsluith
+Carsphairn
+Carzield
+Castle Douglas
+Castle Kennedy
+Castlemilk
+Caulkerbush
+Caulside
+Challoch
+Chapelknowe
+Clarencefield
+Claygate
+Closeburn
+Collin
+Corrie Common
+Corriedoo
+Corsock
+Courance
+Crawick
+Creca
+Cree
+Creebridge
+Creetown
+Crocketford
+Cross Water of Luce
+Crossmichael
+Cummertrees
+Dalbeattie
+Dalswinton
+Dalton
+Dalwhat Water
+Davington
+Dee
+Dornock
+Drummore
+Drumsleet
+Dryfe Water
+Dumcrieff
+Dumfries
+Duncow
+Dundeugh
+Dundrennan
+Dunragit
+Dunscore
+Durisdeer
+Durisdeermill
+Eaglesfield
+East Preston
+East Skelston
+Eastriggs
+Ecclefechan
+Elgin Lane
+Elrig
+Enoch
+Enterkinfoot
+Esk
+Eskdalemuir
+Eskdalemuir Forest
+Euchan Water
+Evan Water
+Evertown
+Ewes Water
+Fingland Burn
+Gala Lane
+Gallaberry
+Garlieston
+Garrochtrie
+Gatehouse of Fleet
+Gatelawbridge
+Gateside
+Gelston
+Georgetown
+Gillesbie
+Girthon
+Glencaple
+Glenlochar
+Glenluce
+Glenstockadale
+Glentrool Village
+Greenhill
+Greenlea
+Gretna
+Gretna Green
+Hangingshaw
+Hardgate
+Haugh of Urr
+Heathhall
+Heck
+High Ardwell
+Hightae
+Hitchill
+Hollee
+Hollows
+Holmhill
+Holywood
+Irongray
+Islands of Fleet
+Isle of Man
+Isle of Whithorn
+Islesteps
+Johnstonebridge
+Keir Mill
+Kelloholm
+Kelton
+Kelton Hil
+Kendoon
+Kettleholm
+Kingholm Quay
+Kinnel Water
+Kippford
+Kirkandrews
+Kirkbean
+Kirkcolm
+Kirkconnel
+Kirkcowan
+Kirkcudbright
+Kirkgunzeon
+Kirkgunzeon Burn
+Kirkinner
+Kirkland
+Kirkmaiden
+Kirkmichael Mains
+Kirkpatrick
+Kirkpatrick Durham
+Kirkpatrick-Fleming
+Kirkton
+Kirkwood
+Kirtle
+Kirtle Water
+Kirtlebridge
+Kirtleton
+Knarie Burn
+Knockbrex
+Knockglass
+Knowe
+Lachar Water
+Langholm
+Laurieston
+Leswalt
+Liddle Water
+Lincluden
+Lochan Burn
+Lochan Water
+Lochans
+Locharbriggs
+Lochfoot
+Lochmaben
+Lochside
+Lockerbie
+Lowther Hills
+Lowthertown
+Main Water of Luce
+Mainsriddle
+Mansegate
+Marjoriebanks
+Maxwelltown
+Meggat Water
+Mennock
+Mid Murthat
+Middlebie
+Middleshaw
+Milleur Point
+Millhousebridge
+Milton
+Minnigaff
+Mochrum
+Moffat
+Moffat Water
+Money Head
+Moniaive
+Monreith
+Moorend
+Morton Mains
+Mossdale
+Mouswald
+Mull Of Galloway
+Mull of Logan
+Murraythwaite
+Mutehill
+Nether Cassock
+Nether Clifton
+Nethermill
+New Abbey
+New Abbey Pow
+New Galloway
+New Langholm
+New Luce
+Newbie
+Newbridge
+Newlands
+Newton
+Newton Stewart
+Ninemile Bar
+Nith
+Nithbank
+Nithside
+North Milmain
+Nunholm
+Old Bridge of Urr
+Old Graitney
+Old Johnstone
+Palnackie
+Parkgate
+Parton
+Penpont
+Penwhirn Burn
+Penwhirn Reservoir
+Piltanton Burn
+Plantationfoot
+Port Logan
+Port William
+Portpatrick
+Portslogan
+Powfoot
+Prestonmill
+Priestside
+Pullaugh Burn
+Racks
+Rae Burn
+Raehills
+Rhonehouse
+Rigg
+Ringford
+Rockcliffe
+Ross
+Rowanburn
+Ruthwell
+Sand Side
+Sandgreen
+Sandhead
+Sanquhar
+Scar Water
+Scaur
+Scaur Water
+Shawhead
+Shinnel Water
+Sibbaldbie
+Skyreburn
+Smallholm
+Sorbie
+South Corrielaw
+Southerness
+Southerness Point
+Spittal
+Spout
+Springfield
+Springkell
+Springwells
+Stairhaven
+Stenhouse
+Stoneykirk
+Stranraer
+Stronord
+Summerville
+Tail Burn
+Tarf Water
+Templand
+Terregles
+The Glenkens
+The Lake
+Thornhill
+Three Crofts
+Tinwald
+Tongland
+Torthorwald
+Townhead
+Townhead of Greenlaw
+Troqueer
+Twynholm
+Tynron
+Urr
+Urr Water
+Wallaceton
+Wamphray Water
+Wanlockhead
+Watchill
+Water of Ae
+Water of Deugh
+Water of Fleet
+Water of Ken
+Water of Luce
+Water of Minnoch
+Waterbeck
+Waulkmill
+Welldale
+West Skelston
+Wester Parkgate
+Whauphill
+Whinnieliggate
+White Esk
+Whitespots
+Whithorn
+Wigtown
+Woodhead
+Woodlands
+Woodside
