@@ -658,7 +658,7 @@ Ikeq
 Ile aux Cochons
 Ile aux Rennes
 Ile de France
-Ile de l' Ouest
+Ile de l'Ouest
 Ile de l'Est
 Ile de la Gonave
 Ile de la Possession

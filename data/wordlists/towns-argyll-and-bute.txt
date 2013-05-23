@@ -90,7 +90,7 @@ Auchindrain
 Avich
 Awe
 Bac Beag
-Bac Mor (Dutchmans Cap)
+Bac Mor
 Backs Water
 Baile Boidheach
 Baile Mor
@@ -234,7 +234,7 @@ Dunbeg
 Dunollie
 Dunoon
 Dunrostan
-Dutchmans Cap (Bac Mor)
+Dutchmans Cap
 Eachaig
 Eas Dubh
 Easdale
@@ -270,7 +270,7 @@ Euchar
 Fanmore
 Faslane Port
 Fasnacloich
-Feochan Mhor (River Nell)
+Feochan Mhor
 Fionnphort
 Ford
 Forsa
@@ -509,7 +509,7 @@ Rhu
 Rinn Thorbhais
 Rinns Point
 Risabus
-River Nell (Feochan Mhor)
+River Nell
 Rosneath
 Ross of Mull
 Rothesay
@@ -523,7 +523,7 @@ Rubha na Traille
 Rubha nan Crann
 Rubha nan Leacon
 Ruel
-Rˆisa an t-Sruith
+Risa an t-Sruith
 Saddell
 Salen
 Salum
